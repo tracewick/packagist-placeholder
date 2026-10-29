@@ -1,0 +1,7 @@
+{
+  "name": "tracewick/tracewick",
+  "description": "Production-grade sampling profiler for PHP on ext-excimer. Coming soon.",
+  "type": "library",
+  "license": "Apache-2.0",
+  "require": { "php": ">=8.2" }
+}
